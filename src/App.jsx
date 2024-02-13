@@ -3,7 +3,7 @@ import main_pic from './assets/my-pic1.png'
 import bg_element from './assets/bg-element.png'
 import white_light from './assets/white-light.png'
 import red_shadow from './assets/red-shadow.png'
-//import cake from './assets/cake.jpg'
+//import  cake from './assets/cake.jpg'   
 
 function App() {
 
