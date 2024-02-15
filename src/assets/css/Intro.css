@@ -5,4 +5,60 @@
     margin: 0;
 }
 
+.red-shadow2 {
+    position: absolute;
+    height: 133%;
+    width: 100%;
+}
 
+.personal {
+    display: flex;
+    width: 100%;
+    height: 120vh;
+}
+
+.personal-left {
+    width: 50%;
+    height: 100%;
+    background: black;
+}
+
+.sec-pic {
+    position: absolute;
+    width: 35em;
+    height: 35em;
+    margin-left: 80px;
+    margin-top: 55px;
+}
+
+.bg-element2 {
+    position: absolute;
+    width: 60%;
+    height: 105vh;
+    margin-top: 50px;
+}
+
+.personal-right {
+    width: 50%;
+    height: 100%;
+    background: black;
+}
+
+.hello {
+    position: absolute;
+    font-family: 'Poppins';
+    color: white;
+    font-size: 3em;
+    font-weight: normal;
+    background: red;
+    width: ;
+}
+
+.hello2 {
+    position: absolute;
+    font-family: 'Poppins';
+    color: white;
+    font-size: 3em;
+    font-weight: normal;
+    background: red;
+}
